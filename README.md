@@ -33,56 +33,9 @@
 
 ### 👨‍💻 &nbsp;About Me
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <p>
-        Hello! I'm <b>Utkarsh Kushwaha</b>, an undergraduate Computer Science student at <b>NIET, Greater Noida</b> with a genuine passion for understanding how computing systems work from first principles. Driven by the philosophy <i>"Curious by Nature. Built to Create. Driven to Innovate,"</i> my journey centers on learning algorithms, engineering responsive web applications, and experimenting with intelligent systems.
-      </p>
-      <p>
-        I enjoy turning coursework concepts into functional applications through hands-on project building, active hackathon participation, and collaborating with developer communities through open-source contributions.
-      </p>
-      <ul>
-        <li>🎓 <b>Academic Journey:</b> Pursuing B.Tech in Computer Science & Engineering (CGPA: <b>8.54 / 10.0</b>), cultivating a solid foundation in DSA, OOP, DBMS, and system fundamentals.</li>
-        <li>💻 <b>Software Development:</b> Building practical software using Java, Python, C, and JavaScript, ranging from data structure utilities to database-backed web platforms.</li>
-        <li>🌐 <b>Open Source Collaboration:</b> Active contributor via <b>GirlScript Summer of Code (GSSoC 2026)</b>, improving frontend codebases and practicing Git-based peer reviews.</li>
-        <li>🏆 <b>Hackathons & Competitions:</b> Selected in <b>Smart India Hackathon 2026 (NIET Internal Round)</b> with Team DoraByte; participated in IntrusionX Cybersecurity and Paytm Build for India AI hackathons.</li>
-      </ul>
-    </td>
-    <td width="38%" valign="top">
-      <div align="center">
-        <b>📋 QUICK SPECS</b>
-      </div>
-      <br/>
-      <table width="100%">
-        <tr>
-          <td><b>Status</b></td>
-          <td><code>Undergraduate Student</code></td>
-        </tr>
-        <tr>
-          <td><b>Degree</b></td>
-          <td>B.Tech CSE (2025–2029)</td>
-        </tr>
-        <tr>
-          <td><b>College</b></td>
-          <td>NIET, Greater Noida</td>
-        </tr>
-        <tr>
-          <td><b>CGPA</b></td>
-          <td><code>8.54 / 10.0</code></td>
-        </tr>
-        <tr>
-          <td><b>Focus</b></td>
-          <td>Programming • DSA • Web • AI/ML</td>
-        </tr>
-        <tr>
-          <td><b>Location</b></td>
-          <td>Greater Noida, India</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/about-me.svg" alt="About Me — Utkarsh Kushwaha" width="100%" />
+</div>
 
 ---
 
@@ -256,84 +209,79 @@
 ### 💼 &nbsp;Professional Experience & Contributions
 
 <table width="100%">
-  <tr>
-    <!-- CARD 1: IAF (Cyan Accent) -->
-    <td width="33.33%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/IAF-00F2FE?style=for-the-badge&labelColor=0a0f1d&logo=googlechrome&logoColor=00F2FE" alt="InAmigos Foundation" />
-        <br/>
-        <b>Web Development Intern</b>
-        <br/>
-        <sub><b>InAmigos Foundation (IAF)</b></sub>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Jun_2026_--_Jul_2026-00F2FE?style=flat-square&labelColor=0a0f1d" alt="Timeline" />
-        <br/>
-        <img src="https://img.shields.io/badge/Location-Noida%2C_India-64748B?style=flat-square&labelColor=0a0f1d" alt="Location" />
-      </div>
-      <hr/>
-      <ul>
-        <li>Developed responsive web interfaces using semantic <b>HTML5 & CSS3</b>.</li>
-        <li>Improved cross-device compatibility and optimized core page performance.</li>
-        <li>Refined UI/UX layouts and digital assets for visual consistency.</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" alt="CSS3" />
-        <img src="https://img.shields.io/badge/Responsive_UI-00F2FE?style=flat-square&labelColor=0a0f1d" alt="UI" />
-      </div>
-    </td>
-
-    <!-- CARD 2: GSSoC 2026 (Purple Accent) -->
-    <td width="33.33%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/GSSoC-8A2BE2?style=for-the-badge&labelColor=0a0f1d&logo=git&logoColor=8A2BE2" alt="GirlScript Summer of Code" />
-        <br/>
-        <b>Open Source Contributor</b>
-        <br/>
-        <sub><b>GirlScript Summer of Code (GSSoC 2026)</b></sub>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/May_2026_--_Jul_2026-8A2BE2?style=flat-square&labelColor=0a0f1d" alt="Timeline" />
-        <br/>
-        <img src="https://img.shields.io/badge/Location-Remote-64748B?style=flat-square&labelColor=0a0f1d" alt="Location" />
-      </div>
-      <hr/>
-      <ul>
-        <li>Resolved bugs and contributed modular frontend components across active repositories.</li>
-        <li>Wrote maintainable <b>HTML, CSS, and JavaScript</b> code adhering to peer review standards.</li>
-        <li>Collaborated through GitHub issues and pull requests; improved documentation and test coverage.</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square" alt="Git" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black" alt="JS" />
-        <img src="https://img.shields.io/badge/Open_Source-8A2BE2?style=flat-square&labelColor=0a0f1d" alt="Open Source" />
-      </div>
-    </td>
-
-    <!-- CARD 3: Deloitte Australia (Teal Accent) -->
-    <td width="33.33%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/Deloitte-00C9A7?style=for-the-badge&labelColor=0a0f1d&logo=deloitte&logoColor=00C9A7" alt="Deloitte Australia" />
-        <br/>
-        <b>Technology Job Simulation</b>
-        <br/>
-        <sub><b>Deloitte Australia (Forage)</b></sub>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Oct_2026-00C9A7?style=flat-square&labelColor=0a0f1d" alt="Timeline" />
-        <br/>
-        <img src="https://img.shields.io/badge/Location-Virtual-64748B?style=flat-square&labelColor=0a0f1d" alt="Location" />
-      </div>
-      <hr/>
-      <ul>
-        <li>Completed simulated software and technology development tasks based on enterprise briefs.</li>
-        <li>Prepared an end-to-end technology architecture proposal for an organizational dashboard.</li>
-        <li>Conducted basic security considerations and data requirements auditing for dashboard analytics.</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Architecture-00C9A7?style=flat-square&labelColor=0a0f1d" alt="Arch" />
-        <img src="https://img.shields.io/badge/Analytics-2563EB?style=flat-square" alt="Analytics" />
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="33.33%" valign="top">
+<div align="center">
+<img src="https://img.shields.io/badge/IAF-00F2FE?style=for-the-badge&labelColor=0a0f1d&logo=googlechrome&logoColor=00F2FE" alt="InAmigos Foundation" />
+<br/>
+<b>Web Development Intern</b>
+<br/>
+<sub><b>InAmigos Foundation (IAF)</b></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Jun_2026_--_Jul_2026-00F2FE?style=flat-square&labelColor=0a0f1d" alt="Timeline" />
+<br/>
+<img src="https://img.shields.io/badge/Location-Noida%2C_India-64748B?style=flat-square&labelColor=0a0f1d" alt="Location" />
+</div>
+<hr/>
+<ul>
+<li>Developed responsive web interfaces using semantic <b>HTML5 & CSS3</b>.</li>
+<li>Improved cross-device compatibility and optimized core page performance.</li>
+<li>Refined UI/UX layouts and digital assets for visual consistency.</li>
+</ul>
+<div align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" alt="CSS3" />
+<img src="https://img.shields.io/badge/Responsive_UI-00F2FE?style=flat-square&labelColor=0a0f1d" alt="UI" />
+</div>
+</td>
+<td width="33.33%" valign="top">
+<div align="center">
+<img src="https://img.shields.io/badge/GSSoC-8A2BE2?style=for-the-badge&labelColor=0a0f1d&logo=git&logoColor=8A2BE2" alt="GirlScript Summer of Code" />
+<br/>
+<b>Open Source Contributor</b>
+<br/>
+<sub><b>GirlScript Summer of Code (GSSoC 2026)</b></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/May_2026_--_Jul_2026-8A2BE2?style=flat-square&labelColor=0a0f1d" alt="Timeline" />
+<br/>
+<img src="https://img.shields.io/badge/Location-Remote-64748B?style=flat-square&labelColor=0a0f1d" alt="Location" />
+</div>
+<hr/>
+<ul>
+<li>Resolved bugs and contributed modular frontend components across active repositories.</li>
+<li>Wrote maintainable <b>HTML, CSS, and JavaScript</b> code adhering to peer review standards.</li>
+<li>Collaborated through GitHub issues and pull requests; improved documentation and test coverage.</li>
+</ul>
+<div align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square" alt="Git" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black" alt="JS" />
+<img src="https://img.shields.io/badge/Open_Source-8A2BE2?style=flat-square&labelColor=0a0f1d" alt="Open Source" />
+</div>
+</td>
+<td width="33.33%" valign="top">
+<div align="center">
+<img src="https://img.shields.io/badge/Deloitte-00C9A7?style=for-the-badge&labelColor=0a0f1d&logo=deloitte&logoColor=00C9A7" alt="Deloitte Australia" />
+<br/>
+<b>Technology Job Simulation</b>
+<br/>
+<sub><b>Deloitte Australia (Forage)</b></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Oct_2026-00C9A7?style=flat-square&labelColor=0a0f1d" alt="Timeline" />
+<br/>
+<img src="https://img.shields.io/badge/Location-Virtual-64748B?style=flat-square&labelColor=0a0f1d" alt="Location" />
+</div>
+<hr/>
+<ul>
+<li>Completed simulated software and technology development tasks based on enterprise briefs.</li>
+<li>Prepared an end-to-end technology architecture proposal for an organizational dashboard.</li>
+<li>Conducted basic security considerations and data requirements auditing for dashboard analytics.</li>
+</ul>
+<div align="center">
+<img src="https://img.shields.io/badge/Architecture-00C9A7?style=flat-square&labelColor=0a0f1d" alt="Arch" />
+<img src="https://img.shields.io/badge/Analytics-2563EB?style=flat-square" alt="Analytics" />
+</div>
+</td>
+</tr>
 </table>
 
 ---

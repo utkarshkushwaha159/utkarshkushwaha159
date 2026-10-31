@@ -1,0 +1,280 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 682" width="100%" height="100%" role="img" aria-labelledby="aboutMeTitle aboutMeDesc">
+  <title id="aboutMeTitle">About Me — Utkarsh Kushwaha</title>
+  <desc id="aboutMeDesc">Futuristic developer portfolio about me section for Utkarsh Kushwaha, B.Tech CSE Student at NIET Greater Noida</desc>
+
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040814" />
+      <stop offset="50%" stop-color="#071126" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+
+    <!-- Border Gradients -->
+    <linearGradient id="cyanBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#2563EB" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#8A2BE2" stop-opacity="0.6" />
+    </linearGradient>
+
+    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="100%" stop-color="#0284C7" />
+    </linearGradient>
+
+    <linearGradient id="purpleGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C084FC" />
+      <stop offset="100%" stop-color="#7928CA" />
+    </linearGradient>
+
+    <linearGradient id="cgpaPillGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#7928CA" stop-opacity="0.9" />
+    </linearGradient>
+
+    <linearGradient id="tealGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2DD4BF" />
+      <stop offset="100%" stop-color="#0D9488" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title-main { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 800; fill: #FFFFFF; }
+    .title-highlight { fill: #00F2FE; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 700; fill: #38BDF8; letter-spacing: 2px; }
+    .body-lead { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14.5px; font-weight: 500; fill: #E2E8F0; }
+    .body-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13.5px; font-weight: 400; fill: #94A3B8; line-height: 1.5; }
+    .sec-header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 800; fill: #38BDF8; letter-spacing: 1.5px; }
+    .item-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; fill: #FFFFFF; }
+    .item-desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 400; fill: #94A3B8; }
+    .pill-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 11.5px; font-weight: 600; fill: #E2E8F0; }
+    .quote-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 12.5px; font-style: italic; fill: #CBD5E1; }
+    .spec-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 500; fill: #38BDF8; }
+    .spec-val { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13.5px; font-weight: 700; fill: #F8FAFC; }
+  </style>
+
+  <!-- Outer Card Frame -->
+  <rect x="2" y="2" width="1020" height="678" rx="20" ry="20" fill="url(#bgGrad)" stroke="url(#cyanBorder)" stroke-width="1.5" />
+
+  <!-- Divider between Left and Right Columns -->
+  <line x1="640" y1="20" x2="640" y2="280" stroke="#1E293B" stroke-width="1.5" />
+  <path d="M 640 280 L 634 290 L 634 320 L 640 330 L 640 660" fill="none" stroke="#00F2FE" stroke-opacity="0.4" stroke-width="1.5" />
+
+  <!-- ==================== LEFT PANEL ==================== -->
+
+  <!-- Top Title: About Me -->
+  <g transform="translate(40, 42)">
+    <!-- User Icon -->
+    <circle cx="16" cy="16" r="16" fill="#00F2FE" fill-opacity="0.15" />
+    <path d="M 16 10 A 4 4 0 1 0 16 18 A 4 4 0 1 0 16 10 Z M 10 24 C 10 20.5 13 19 16 19 C 19 19 22 20.5 22 24 Z" fill="#00F2FE" />
+    <text x="44" y="24" class="title-main">About Me</text>
+    <line x1="185" y1="18" x2="570" y2="18" stroke="#1E293B" stroke-width="1.5" />
+    <circle cx="570" cy="18" r="3" fill="#00F2FE" />
+    <text x="0" y="52" class="subtitle">GET TO KNOW ME BETTER</text>
+  </g>
+
+  <!-- Main Introduction -->
+  <g transform="translate(40, 130)">
+    <text x="0" y="20" class="title-main" font-size="22">Hey! I'm <tspan class="title-highlight">Utkarsh Kushwaha</tspan></text>
+    <text x="0" y="48" class="body-lead">A Computer Science undergraduate at <tspan font-weight="700" fill="#FFFFFF">NIET, Greater Noida</tspan>,</text>
+    <text x="0" y="70" class="body-lead">passionate about building technology that solves real-world problems.</text>
+
+    <!-- Quote Block with Vertical Cyan Line -->
+    <rect x="0" y="92" width="3.5" height="66" rx="2" fill="#00F2FE" />
+    <text x="16" y="108" class="body-sub">I enjoy exploring how things work, turning ideas into practical projects,</text>
+    <text x="16" y="128" class="body-sub">and continuously improving my problem-solving skills. I love working</text>
+    <text x="16" y="148" class="body-sub">on web development, open-source contributions and AI-driven solutions.</text>
+  </g>
+
+  <!-- WHAT DRIVES ME Header -->
+  <g transform="translate(40, 325)">
+    <text x="0" y="10" class="sec-header">WHAT DRIVES ME</text>
+    <line x1="135" y1="6" x2="570" y2="6" stroke="#1E293B" stroke-width="1.5" />
+    <circle cx="570" cy="6" r="3" fill="#00F2FE" />
+  </g>
+
+  <!-- 4 Highlights Cards: Learn, Build, Collaborate, Improve -->
+  <g transform="translate(40, 355)">
+    <!-- 1. Learn -->
+    <g transform="translate(0, 0)">
+      <circle cx="24" cy="24" r="22" fill="#0369A1" fill-opacity="0.2" stroke="#00F2FE" stroke-width="1" />
+      <path d="M 24 16 A 5 5 0 0 0 19 21 C 19 23.5 21 25 21 27 L 27 27 C 27 25 29 23.5 29 21 A 5 5 0 0 0 24 16 Z M 22 29 L 26 29" fill="none" stroke="#00F2FE" stroke-width="1.5" stroke-linecap="round" />
+      <text x="0" y="65" class="item-title">Learn</text>
+      <text x="0" y="82" class="item-desc">Explore new</text>
+      <text x="0" y="96" class="item-desc">technologies &amp;</text>
+      <text x="0" y="110" class="item-desc">foundations</text>
+    </g>
+
+    <!-- 2. Build -->
+    <g transform="translate(145, 0)">
+      <circle cx="24" cy="24" r="22" fill="#6B21A8" fill-opacity="0.2" stroke="#C084FC" stroke-width="1" />
+      <rect x="16" y="18" width="16" height="11" rx="1.5" fill="none" stroke="#C084FC" stroke-width="1.5" />
+      <line x1="13" y1="30" x2="35" y2="30" stroke="#C084FC" stroke-width="1.5" stroke-linecap="round" />
+      <text x="0" y="65" class="item-title">Build</text>
+      <text x="0" y="82" class="item-desc">Turn ideas into</text>
+      <text x="0" y="96" class="item-desc">meaningful</text>
+      <text x="0" y="110" class="item-desc">projects</text>
+    </g>
+
+    <!-- 3. Collaborate -->
+    <g transform="translate(290, 0)">
+      <circle cx="24" cy="24" r="22" fill="#0F766E" fill-opacity="0.2" stroke="#2DD4BF" stroke-width="1" />
+      <circle cx="20" cy="21" r="3" fill="#2DD4BF" />
+      <circle cx="28" cy="21" r="3" fill="#2DD4BF" />
+      <path d="M 15 28 C 15 25 18 25 20 25 C 22 25 25 25 25 28" fill="none" stroke="#2DD4BF" stroke-width="1.5" />
+      <text x="0" y="65" class="item-title">Collaborate</text>
+      <text x="0" y="82" class="item-desc">Contribute to</text>
+      <text x="0" y="96" class="item-desc">open source</text>
+      <text x="0" y="110" class="item-desc">&amp; community</text>
+    </g>
+
+    <!-- 4. Improve -->
+    <g transform="translate(435, 0)">
+      <circle cx="24" cy="24" r="22" fill="#1E3A8A" fill-opacity="0.2" stroke="#60A5FA" stroke-width="1" />
+      <path d="M 17 28 L 22 22 L 26 25 L 32 17 M 28 17 L 32 17 L 32 21" fill="none" stroke="#60A5FA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+      <text x="0" y="65" class="item-title">Improve</text>
+      <text x="0" y="82" class="item-desc">Solve tough</text>
+      <text x="0" y="96" class="item-desc">problems &amp;</text>
+      <text x="0" y="110" class="item-desc">grow skills</text>
+    </g>
+  </g>
+
+  <!-- CURRENTLY EXPLORING Header -->
+  <g transform="translate(40, 505)">
+    <text x="0" y="10" class="sec-header">CURRENTLY EXPLORING</text>
+    <line x1="175" y1="6" x2="570" y2="6" stroke="#1E293B" stroke-width="1.5" />
+    <circle cx="570" cy="6" r="3" fill="#00F2FE" />
+  </g>
+
+  <!-- 4 Compact Pill Tags -->
+  <g transform="translate(40, 528)">
+    <!-- Tag 1 -->
+    <rect x="0" y="0" width="168" height="30" rx="15" fill="#0369A1" fill-opacity="0.1" stroke="#00F2FE" stroke-opacity="0.4" stroke-width="1" />
+    <text x="14" y="19" font-family="monospace" font-size="11" fill="#00F2FE">&lt;/&gt;</text>
+    <text x="36" y="19" class="pill-text">Data Structures &amp; Algo</text>
+
+    <!-- Tag 2 -->
+    <rect x="178" y="0" width="155" height="30" rx="15" fill="#6B21A8" fill-opacity="0.1" stroke="#C084FC" stroke-opacity="0.4" stroke-width="1" />
+    <circle cx="192" cy="15" r="4" fill="#C084FC" />
+    <text x="204" y="19" class="pill-text">Full-Stack Dev</text>
+
+    <!-- Tag 3 -->
+    <rect x="343" y="0" width="85" height="30" rx="15" fill="#0F766E" fill-opacity="0.1" stroke="#2DD4BF" stroke-opacity="0.4" stroke-width="1" />
+    <circle cx="356" cy="15" r="4" fill="#2DD4BF" />
+    <text x="368" y="19" class="pill-text">AI / ML</text>
+
+    <!-- Tag 4 -->
+    <rect x="438" y="0" width="130" height="30" rx="15" fill="#1E3A8A" fill-opacity="0.1" stroke="#60A5FA" stroke-opacity="0.4" stroke-width="1" />
+    <circle cx="452" cy="15" r="4" fill="#60A5FA" />
+    <text x="464" y="19" class="pill-text">System Design</text>
+  </g>
+
+  <!-- Bottom Tagline Bar -->
+  <g transform="translate(40, 580)">
+    <rect x="0" y="0" width="560" height="42" rx="10" fill="#0B132B" fill-opacity="0.6" stroke="#1E293B" stroke-width="1" />
+    <circle cx="25" cy="21" r="12" fill="#00F2FE" fill-opacity="0.15" />
+    <text x="20" y="27" font-size="16" fill="#00F2FE" font-weight="bold">“</text>
+    <text x="48" y="26" class="quote-text">Curious by Nature. <tspan font-weight="600" fill="#FFFFFF">Built to Create.</tspan> Driven to Innovate.</text>
+    <line x1="450" y1="21" x2="520" y2="21" stroke="#334155" stroke-width="1" />
+    <circle cx="520" cy="21" r="2.5" fill="#00F2FE" />
+  </g>
+
+  <!-- ==================== RIGHT PANEL (QUICK SPECS) ==================== -->
+
+  <!-- Top Title: QUICK SPECS -->
+  <g transform="translate(680, 42)">
+    <rect x="0" y="6" width="6" height="6" rx="1" fill="#00F2FE" />
+    <rect x="9" y="6" width="6" height="6" rx="1" fill="#00F2FE" />
+    <rect x="0" y="15" width="6" height="6" rx="1" fill="#00F2FE" />
+    <rect x="9" y="15" width="6" height="6" rx="1" fill="#00F2FE" />
+    <text x="24" y="22" class="sec-header" font-size="13">QUICK SPECS</text>
+    <line x1="135" y1="18" x2="280" y2="18" stroke="#1E293B" stroke-width="1.5" />
+    <circle cx="280" cy="18" r="3" fill="#00F2FE" />
+  </g>
+
+  <!-- Vertical Timeline Connector -->
+  <line x1="702" y1="105" x2="702" y2="400" stroke="#1E293B" stroke-width="2" />
+
+  <!-- Timeline Item 1: Status -->
+  <g transform="translate(685, 90)">
+    <circle cx="17" cy="17" r="16" fill="#0369A1" fill-opacity="0.25" stroke="#00F2FE" stroke-width="1.2" />
+    <path d="M 17 11 L 24 15 L 17 19 L 10 15 Z M 13 18 L 13 22 C 13 24 21 24 21 22 L 21 18" fill="none" stroke="#00F2FE" stroke-width="1.2" stroke-linejoin="round" />
+    <text x="45" y="12" class="spec-label">Status</text>
+    <text x="45" y="28" class="spec-val">Undergraduate Student</text>
+  </g>
+
+  <!-- Timeline Item 2: Degree -->
+  <g transform="translate(685, 145)">
+    <circle cx="17" cy="17" r="16" fill="#6B21A8" fill-opacity="0.25" stroke="#C084FC" stroke-width="1.2" />
+    <rect x="12" y="10" width="10" height="14" rx="1" fill="none" stroke="#C084FC" stroke-width="1.2" />
+    <line x1="15" y1="14" x2="19" y2="14" stroke="#C084FC" stroke-width="1" />
+    <line x1="15" y1="18" x2="19" y2="18" stroke="#C084FC" stroke-width="1" />
+    <text x="45" y="12" class="spec-label">Degree</text>
+    <text x="45" y="28" class="spec-val">B.Tech CSE (2025 – 2029)</text>
+  </g>
+
+  <!-- Timeline Item 3: College -->
+  <g transform="translate(685, 200)">
+    <circle cx="17" cy="17" r="16" fill="#0F766E" fill-opacity="0.25" stroke="#2DD4BF" stroke-width="1.2" />
+    <path d="M 17 10 L 25 14 L 9 14 Z M 11 15 L 11 21 M 15 15 L 15 21 M 19 15 L 19 21 M 23 15 L 23 21 M 9 22 L 25 22" fill="none" stroke="#2DD4BF" stroke-width="1.2" />
+    <text x="45" y="12" class="spec-label">College</text>
+    <text x="45" y="28" class="spec-val">NIET, Greater Noida</text>
+  </g>
+
+  <!-- Timeline Item 4: CGPA -->
+  <g transform="translate(685, 255)">
+    <circle cx="17" cy="17" r="16" fill="#4338CA" fill-opacity="0.25" stroke="#818CF8" stroke-width="1.2" />
+    <polygon points="17,11 19,15 23,15 20,18 21,22 17,20 13,22 14,18 11,15 15,15" fill="#818CF8" />
+    <text x="45" y="12" class="spec-label">CGPA</text>
+    <rect x="45" y="16" width="105" height="24" rx="12" fill="url(#cgpaPillGrad)" stroke="#A855F7" stroke-width="1" />
+    <text x="97" y="32" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="800" fill="#FFFFFF">8.54 / 10.0</text>
+  </g>
+
+  <!-- Timeline Item 5: Focus -->
+  <g transform="translate(685, 310)">
+    <circle cx="17" cy="17" r="16" fill="#0369A1" fill-opacity="0.25" stroke="#38BDF8" stroke-width="1.2" />
+    <circle cx="17" cy="17" r="8" fill="none" stroke="#38BDF8" stroke-width="1.2" />
+    <circle cx="17" cy="17" r="3" fill="#38BDF8" />
+    <text x="45" y="12" class="spec-label">Focus</text>
+    <text x="45" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Programming • DSA • Web • AI/ML</text>
+  </g>
+
+  <!-- Timeline Item 6: Location -->
+  <g transform="translate(685, 365)">
+    <circle cx="17" cy="17" r="16" fill="#6B21A8" fill-opacity="0.25" stroke="#C084FC" stroke-width="1.2" />
+    <path d="M 17 11 C 14 11 12 13 12 16 C 12 20 17 24 17 24 C 17 24 22 20 22 16 C 22 13 20 11 17 11 Z M 17 17.5 A 1.5 1.5 0 1 1 17 14.5 A 1.5 1.5 0 1 1 17 17.5 Z" fill="none" stroke="#C084FC" stroke-width="1.2" />
+    <text x="45" y="12" class="spec-label">Location</text>
+    <text x="45" y="28" class="spec-val">Greater Noida, India</text>
+  </g>
+
+  <!-- Bottom Workspace Illustration (Neon Laptop + Desk) -->
+  <g transform="translate(670, 430)">
+    <!-- Ambient Glow behind laptop -->
+    <ellipse cx="160" cy="140" rx="110" ry="40" fill="#0284C7" fill-opacity="0.15" />
+
+    <!-- Laptop Base -->
+    <polygon points="90,185 240,185 260,195 70,195" fill="#1E293B" stroke="#00F2FE" stroke-width="1" />
+    <rect x="135" y="186" width="60" height="3" rx="1.5" fill="#00F2FE" fill-opacity="0.6" />
+
+    <!-- Laptop Screen -->
+    <polygon points="105,110 225,110 240,185 90,185" fill="#0A0F1D" stroke="#0284C7" stroke-width="1.5" />
+    <polygon points="112,116 218,116 232,180 98,180" fill="#030712" />
+    <!-- Screen Code Symbol -->
+    <text x="165" y="155" text-anchor="middle" font-family="monospace" font-size="20" font-weight="bold" fill="#00F2FE">&lt;/&gt;</text>
+
+    <!-- Neon Mug -->
+    <rect x="255" y="160" width="22" height="28" rx="3" fill="#0F172A" stroke="#38BDF8" stroke-width="1" />
+    <path d="M 277 166 C 283 166 283 178 277 178" fill="none" stroke="#38BDF8" stroke-width="1" />
+    <text x="266" y="172" text-anchor="middle" font-family="monospace" font-size="5" fill="#38BDF8">BUILD</text>
+    <text x="266" y="178" text-anchor="middle" font-family="monospace" font-size="5" fill="#38BDF8">LEARN</text>
+    <text x="266" y="184" text-anchor="middle" font-family="monospace" font-size="5" fill="#38BDF8">GROW</text>
+
+    <!-- Glowing Slogan / Neon text -->
+    <text x="280" y="115" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" font-style="italic" fill="#818CF8" fill-opacity="0.7">Better</text>
+    <text x="280" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" font-style="italic" fill="#818CF8" fill-opacity="0.7">Code</text>
+    <text x="280" y="145" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" font-style="italic" fill="#38BDF8" fill-opacity="0.8">Brighter</text>
+    <text x="280" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" font-style="italic" fill="#38BDF8" fill-opacity="0.8">Future</text>
+  </g>
+
+</svg>
+

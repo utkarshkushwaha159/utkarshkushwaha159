@@ -1,14 +1,14 @@
 <div align="center">
 
   <!-- ================= HEADER BANNER ================= -->
-  <img src="assets/banner.jpg" alt="Utkarsh Kushwaha — Student Developer Banner" width="100%" />
+  <picture><img src="assets/banner.jpg" alt="Utkarsh Kushwaha — Student Developer Banner" width="100%" /></picture>
 
   <!-- ================= TYPING DYNAMIC INTRODUCTION ================= -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1100&color=00F2FE&center=true&vCenter=true&width=720&lines=B.Tech+Computer+Science+Student;Aspiring+Software+Engineer;Open+Source+Contributor;Hackathon+Participant;Technology+Enthusiast" alt="Utkarsh Kushwaha Identity Animation" />
+  <picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1100&color=00F2FE&center=true&vCenter=true&width=720&lines=B.Tech+Computer+Science+Student;Aspiring+Software+Engineer;Open+Source+Contributor;Hackathon+Participant;Technology+Enthusiast" alt="Utkarsh Kushwaha Identity Animation" /></picture>
 
   <br/><br/>
 
-  <!-- ================= PROFESSIONAL NAVIGATION BADGES ================= -->
+  <!-- ================= APPROVED NAVIGATION BADGES ================= -->
   <p align="center">
     <a href="https://utkarsh-kushwaha-portfolio.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Live_Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=000&labelColor=0a0f1d" alt="Live Portfolio Website" />
@@ -34,7 +34,7 @@
 ### 👨‍💻 &nbsp;About Me
 
 <div align="center">
-  <img src="assets/about-me.svg" alt="About Me — Utkarsh Kushwaha" width="100%" />
+  <picture><img src="assets/about-me.svg" alt="About Me — Utkarsh Kushwaha" width="100%" /></picture>
 </div>
 
 ---
@@ -57,25 +57,25 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <picture><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></picture>
   &nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <picture><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></picture>
   &nbsp;
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <picture><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" /></picture>
   &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></picture>
   &nbsp;
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <picture><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></picture>
   &nbsp;
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <picture><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></picture>
   &nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <picture><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></picture>
   &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <picture><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></picture>
   &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <picture><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></picture>
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <picture><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></picture>
 </div>
 
 ---
@@ -87,7 +87,7 @@
   <tr>
     <td width="50%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/AI_%7C_Web_Platform-00F2FE?style=flat-square&labelColor=0a0f1d" alt="Category" />
+        <picture><img src="https://img.shields.io/badge/AI_%7C_Web_Platform-00F2FE?style=flat-square&labelColor=0a0f1d" alt="Category" /></picture>
         <h3>⚡ Watt's Off — Energy Anomaly Detection</h3>
       </div>
       <p>An energy-monitoring platform designed to detect abnormal electricity consumption patterns and potential theft using statistical anomaly detection algorithms.</p>
@@ -96,10 +96,10 @@
         <li><b>Visualization:</b> Geospatial mapping with Leaflet.js and real-time analytical charts with Chart.js for portal dashboards.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
+        <picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></picture>
+        <picture><img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /></picture>
+        <picture><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /></picture>
+        <picture><img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" /></picture>
       </p>
       <p>
         <a href="https://github.com/utkarshkushwaha159/wattsoff">
@@ -109,7 +109,7 @@
     </td>
     <td width="50%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/OOP_Architecture-7928CA?style=flat-square&labelColor=0a0f1d" alt="Category" />
+        <picture><img src="https://img.shields.io/badge/OOP_Architecture-7928CA?style=flat-square&labelColor=0a0f1d" alt="Category" /></picture>
         <h3>📋 Digital Complaint Management System (DCMS)</h3>
       </div>
       <p>A structured citizen grievance logging and tracking platform engineered strictly around core Object-Oriented Programming (OOP) paradigms in Python.</p>
@@ -118,9 +118,9 @@
         <li><b>Documentation:</b> Authored 30+ pages of detailed engineering documentation, UML class models, and comprehensive test cases.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/OOP_Design-7928CA?style=flat-square" alt="OOP" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></picture>
+        <picture><img src="https://img.shields.io/badge/OOP_Design-7928CA?style=flat-square" alt="OOP" /></picture>
+        <picture><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /></picture>
       </p>
       <p>
         <a href="https://github.com/utkarshkushwaha159/Digital-Complaint-Management-System">
@@ -133,7 +133,7 @@
   <tr>
     <td width="50%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/Data_Structures-2563EB?style=flat-square&labelColor=0a0f1d" alt="Category" />
+        <picture><img src="https://img.shields.io/badge/Data_Structures-2563EB?style=flat-square&labelColor=0a0f1d" alt="Category" /></picture>
         <h3>💳 ATM Transaction Logging & Cash Flow</h3>
       </div>
       <p>A financial operations and transaction management application built around fundamental Data Structures and database principles.</p>
@@ -142,9 +142,9 @@
         <li><b>Integrity:</b> Persistent transaction records and automated alerts for cash replenishment thresholds.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/DSA-2563EB?style=flat-square" alt="DSA" />
-        <img src="https://img.shields.io/badge/DBMS-003B57?style=flat-square" alt="DBMS" />
+        <picture><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></picture>
+        <picture><img src="https://img.shields.io/badge/DSA-2563EB?style=flat-square" alt="DSA" /></picture>
+        <picture><img src="https://img.shields.io/badge/DBMS-003B57?style=flat-square" alt="DBMS" /></picture>
       </p>
       <p>
         <a href="https://github.com/utkarshkushwaha159/atm-dsa-system">
@@ -154,7 +154,7 @@
     </td>
     <td width="50%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/Computer_Vision-10B981?style=flat-square&labelColor=0a0f1d" alt="Category" />
+        <picture><img src="https://img.shields.io/badge/Computer_Vision-10B981?style=flat-square&labelColor=0a0f1d" alt="Category" /></picture>
         <h3>🛡️ DeepScan AI — Multi-Modal Deepfake Detection</h3>
       </div>
       <p>An experimental AI system designed to detect and flag synthetic manipulations and deepfakes across images, video sequences, and audio streams.</p>
@@ -163,9 +163,9 @@
         <li><b>Verification:</b> Real-time frame extractor identifying temporal inconsistencies across multi-modal media assets.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Computer_Vision-10B981?style=flat-square" alt="CV" />
-        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square" alt="DL" />
+        <picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></picture>
+        <picture><img src="https://img.shields.io/badge/Computer_Vision-10B981?style=flat-square" alt="CV" /></picture>
+        <picture><img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square" alt="DL" /></picture>
       </p>
       <p>
         <a href="https://github.com/utkarshkushwaha159/DeepScan-AI">
@@ -178,7 +178,7 @@
   <tr>
     <td colspan="2" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/Frontend_Engineering-00F2FE?style=flat-square&labelColor=0a0f1d" alt="Category" />
+        <picture><img src="https://img.shields.io/badge/Frontend_Engineering-00F2FE?style=flat-square&labelColor=0a0f1d" alt="Category" /></picture>
         <h3>🌐 Personal Developer Portfolio Website</h3>
       </div>
       <p>A responsive personal website presenting academic milestones, practical projects, technical proficiencies, and contact information.</p>
@@ -186,10 +186,10 @@
         <li><b>Highlights:</b> Clean semantic HTML5, fluid cross-device layout design, modular CSS structure, and automated deployment via Vercel.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+        <picture><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></picture>
+        <picture><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></picture>
+        <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></picture>
+        <picture><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /></picture>
       </p>
       <p>
         <a href="https://utkarsh-kushwaha-portfolio.vercel.app/" target="_blank">
@@ -212,15 +212,15 @@
 <tr>
 <td width="33.33%" valign="top">
 <div align="center">
-<img src="https://img.shields.io/badge/IAF-00F2FE?style=for-the-badge&labelColor=0a0f1d&logo=googlechrome&logoColor=00F2FE" alt="InAmigos Foundation" />
+<picture><img src="https://img.shields.io/badge/IAF-00F2FE?style=for-the-badge&labelColor=0a0f1d&logo=googlechrome&logoColor=00F2FE" alt="InAmigos Foundation" /></picture>
 <br/>
 <b>Web Development Intern</b>
 <br/>
 <sub><b>InAmigos Foundation (IAF)</b></sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Jun_2026_--_Jul_2026-00F2FE?style=flat-square&labelColor=0a0f1d" alt="Timeline" />
+<picture><img src="https://img.shields.io/badge/Jun_2026_--_Jul_2026-00F2FE?style=flat-square&labelColor=0a0f1d" alt="Timeline" /></picture>
 <br/>
-<img src="https://img.shields.io/badge/Location-Noida%2C_India-64748B?style=flat-square&labelColor=0a0f1d" alt="Location" />
+<picture><img src="https://img.shields.io/badge/Location-Noida%2C_India-64748B?style=flat-square&labelColor=0a0f1d" alt="Location" /></picture>
 </div>
 <hr/>
 <ul>
@@ -229,22 +229,22 @@
 <li>Refined UI/UX layouts and digital assets for visual consistency.</li>
 </ul>
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" alt="CSS3" />
-<img src="https://img.shields.io/badge/Responsive_UI-00F2FE?style=flat-square&labelColor=0a0f1d" alt="UI" />
+<picture><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square" alt="HTML5" /></picture>
+<picture><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" alt="CSS3" /></picture>
+<picture><img src="https://img.shields.io/badge/Responsive_UI-00F2FE?style=flat-square&labelColor=0a0f1d" alt="UI" /></picture>
 </div>
 </td>
 <td width="33.33%" valign="top">
 <div align="center">
-<img src="https://img.shields.io/badge/GSSoC-8A2BE2?style=for-the-badge&labelColor=0a0f1d&logo=git&logoColor=8A2BE2" alt="GirlScript Summer of Code" />
+<picture><img src="https://img.shields.io/badge/GSSoC-8A2BE2?style=for-the-badge&labelColor=0a0f1d&logo=git&logoColor=8A2BE2" alt="GirlScript Summer of Code" /></picture>
 <br/>
 <b>Open Source Contributor</b>
 <br/>
 <sub><b>GirlScript Summer of Code (GSSoC 2026)</b></sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/May_2026_--_Jul_2026-8A2BE2?style=flat-square&labelColor=0a0f1d" alt="Timeline" />
+<picture><img src="https://img.shields.io/badge/May_2026_--_Jul_2026-8A2BE2?style=flat-square&labelColor=0a0f1d" alt="Timeline" /></picture>
 <br/>
-<img src="https://img.shields.io/badge/Location-Remote-64748B?style=flat-square&labelColor=0a0f1d" alt="Location" />
+<picture><img src="https://img.shields.io/badge/Location-Remote-64748B?style=flat-square&labelColor=0a0f1d" alt="Location" /></picture>
 </div>
 <hr/>
 <ul>
@@ -253,22 +253,22 @@
 <li>Collaborated through GitHub issues and pull requests; improved documentation and test coverage.</li>
 </ul>
 <div align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square" alt="Git" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black" alt="JS" />
-<img src="https://img.shields.io/badge/Open_Source-8A2BE2?style=flat-square&labelColor=0a0f1d" alt="Open Source" />
+<picture><img src="https://img.shields.io/badge/Git-F05032?style=flat-square" alt="Git" /></picture>
+<picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black" alt="JS" /></picture>
+<picture><img src="https://img.shields.io/badge/Open_Source-8A2BE2?style=flat-square&labelColor=0a0f1d" alt="Open Source" /></picture>
 </div>
 </td>
 <td width="33.33%" valign="top">
 <div align="center">
-<img src="https://img.shields.io/badge/Deloitte-00C9A7?style=for-the-badge&labelColor=0a0f1d&logo=deloitte&logoColor=00C9A7" alt="Deloitte Australia" />
+<picture><img src="https://img.shields.io/badge/Deloitte-00C9A7?style=for-the-badge&labelColor=0a0f1d&logo=deloitte&logoColor=00C9A7" alt="Deloitte Australia" /></picture>
 <br/>
 <b>Technology Job Simulation</b>
 <br/>
 <sub><b>Deloitte Australia (Forage)</b></sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Oct_2026-00C9A7?style=flat-square&labelColor=0a0f1d" alt="Timeline" />
+<picture><img src="https://img.shields.io/badge/Oct_2026-00C9A7?style=flat-square&labelColor=0a0f1d" alt="Timeline" /></picture>
 <br/>
-<img src="https://img.shields.io/badge/Location-Virtual-64748B?style=flat-square&labelColor=0a0f1d" alt="Location" />
+<picture><img src="https://img.shields.io/badge/Location-Virtual-64748B?style=flat-square&labelColor=0a0f1d" alt="Location" /></picture>
 </div>
 <hr/>
 <ul>
@@ -277,8 +277,8 @@
 <li>Conducted basic security considerations and data requirements auditing for dashboard analytics.</li>
 </ul>
 <div align="center">
-<img src="https://img.shields.io/badge/Architecture-00C9A7?style=flat-square&labelColor=0a0f1d" alt="Arch" />
-<img src="https://img.shields.io/badge/Analytics-2563EB?style=flat-square" alt="Analytics" />
+<picture><img src="https://img.shields.io/badge/Architecture-00C9A7?style=flat-square&labelColor=0a0f1d" alt="Arch" /></picture>
+<picture><img src="https://img.shields.io/badge/Analytics-2563EB?style=flat-square" alt="Analytics" /></picture>
 </div>
 </td>
 </tr>
@@ -292,7 +292,7 @@
   <tr>
     <td width="60%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/SIH_2026-Selected_Team-00F2FE?style=flat-square&labelColor=0a0f1d" alt="SIH Badge" />
+        <picture><img src="https://img.shields.io/badge/SIH_2026-Selected_Team-00F2FE?style=flat-square&labelColor=0a0f1d" alt="SIH Badge" /></picture>
         <h4>🏆 Smart India Hackathon (SIH 2026) — Team DoraByte</h4>
       </div>
       <p><b>Selected in NIET Internal SIH 2026</b> to represent the institution with an AI-driven real-time crisis assessment platform.</p>
@@ -304,7 +304,7 @@
     </td>
     <td width="40%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/Competitions-Cyber_%26_AI-7928CA?style=flat-square&labelColor=0a0f1d" alt="Competitions" />
+        <picture><img src="https://img.shields.io/badge/Competitions-Cyber_%26_AI-7928CA?style=flat-square&labelColor=0a0f1d" alt="Competitions" /></picture>
         <h4>🛡️ Specialized Hackathons</h4>
       </div>
       <p><b>IntrusionX Cybersecurity Hackathon:</b></p>
@@ -333,7 +333,7 @@
 
 <!-- Dynamic Streak & Contribution Highlights Card -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=utkarshkushwaha159&theme=tokyonight&hide_border=true&background=0a0f1d&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE&sideNums=38BDF8&sideLabels=94A3B8&dates=64748B" alt="Utkarsh Kushwaha — Dynamic Contribution Streak & Overview" width="85%" />
+  <picture><img src="https://streak-stats.demolab.com/?user=utkarshkushwaha159&theme=tokyonight&hide_border=true&background=0a0f1d&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE&sideNums=38BDF8&sideLabels=94A3B8&dates=64748B" alt="Utkarsh Kushwaha — Dynamic Contribution Streak & Overview" width="85%" /></picture>
 </div>
 
 <br/>
@@ -343,10 +343,10 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-stats-extended.vercel.app/api?username=utkarshkushwaha159&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=00F2FE&icon_color=00F2FE&text_color=94A3B8" alt="GitHub Profile Overview Statistics" height="175" />
+        <picture><img src="https://github-stats-extended.vercel.app/api?username=utkarshkushwaha159&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=00F2FE&icon_color=00F2FE&text_color=94A3B8" alt="GitHub Profile Overview Statistics" height="175" /></picture>
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=utkarshkushwaha159&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=00F2FE&text_color=94A3B8" alt="GitHub Most Used Programming Languages" height="175" />
+        <picture><img src="https://github-stats-extended.vercel.app/api/top-langs?username=utkarshkushwaha159&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=00F2FE&text_color=94A3B8" alt="GitHub Most Used Programming Languages" height="175" /></picture>
       </td>
     </tr>
   </table>
@@ -362,7 +362,7 @@
         <p align="center">
           <sub><b>ANNUAL CONTRIBUTION ACTIVITY HEATMAP</b></sub>
         </p>
-        <img src="https://ghchart.rshah.org/00F2FE/utkarshkushwaha159" alt="Utkarsh Kushwaha's GitHub Contribution Heatmap" width="100%" />
+        <picture><img src="https://ghchart.rshah.org/00F2FE/utkarshkushwaha159" alt="Utkarsh Kushwaha's GitHub Contribution Heatmap" width="100%" /></picture>
       </td>
     </tr>
   </table>
@@ -415,7 +415,7 @@ I am always keen to collaborate on interesting student projects, participate in 
 <div align="center">
 
   <!-- ================= MINIMAL ELEGANT FOOTER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,18,12,6&height=90&section=footer" alt="Footer Gradient Wave" width="100%" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,18,12,6&height=90&section=footer" alt="Footer Gradient Wave" width="100%" /></picture>
 
   <p align="center">
     <sub>Designed with precision & authenticity • <b>Utkarsh Kushwaha</b> • <i>"Curious by Nature. Built to Create. Driven to Innovate."</i></sub>
